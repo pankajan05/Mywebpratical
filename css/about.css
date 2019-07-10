@@ -16,8 +16,8 @@
 	align-content:center;
 	text-align:center;
 	padding: 5%;
-	border:thick;
-	border-color:solid #000;
+	border-style:solid;
+	border-color:#000;
 
 }
 
