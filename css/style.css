@@ -1,0 +1,37 @@
+/* CSS Document */
+
+body{
+	background:#900C3F;
+	margin:0;
+	padding:0;
+}
+
+.header{
+	margin:10px;
+}
+
+.header h1{
+	font-size:30px;
+	margin:-2% 0 0 80%;
+	font-family:Chiller , Andalus;
+	color: #daa520;
+	position:absolute;
+	border:thick;
+	border-color:solid black;
+}
+
+.nav ul li{
+	margin:0;
+	align-item:center;
+	text-decoration: none;
+	padding:0 9%;
+	display:inline-block;
+	color: #fff;
+	
+}
+
+.main{
+	margin: 10px;
+}
+
+
