@@ -23,12 +23,16 @@ body{
 .nav ul li{
 	margin:0;
 	align-item:center;
-	text-decoration: none;
+	list-style:none;
 	padding:0 9%;
 	display:inline-block;
 	color: #fff;
-	
 }
+
+.nav ul li a{
+	text-decoration:none;
+}
+
 
 .main{
 	margin: 10px;
