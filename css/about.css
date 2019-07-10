@@ -1,0 +1,23 @@
+/* CSS Document */
+.main h1{
+	font-family:Chiller , Andalus;
+	color:  #ffa366 ;
+	position: absolute;
+	margin: -85vh 0 0 0;
+}
+
+.main .container{
+	position:absolute;
+	margin:-60vh 20% 0 20%;
+	background: #fff;
+	opacity: .5;
+	width: 40%;
+	height: -20%;
+	align-content:center;
+	text-align:center;
+	padding: 5%;
+	border:thick;
+	border-color:solid #000;
+
+}
+
