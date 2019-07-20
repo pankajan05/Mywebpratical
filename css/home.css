@@ -1,2 +1,45 @@
 /* CSS Document */
 
+.center{
+  padding: 10px 15% 0 15%;
+  color: #ffe0b3;
+  font-family: Chiller , Andalus;
+  text-align: center;
+}
+
+.left{
+  margin: 10px 0 0 5%;
+  display: inline-block;
+  width: 40%;
+  text-align: center;
+}
+
+.right{
+  margin: 10px 0 0 5%;
+  display: inline-block;
+  width: 40%;
+  text-align: center;
+}
+
+
+.main{
+  background: url("../image/2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height:700px;
+
+}
+
+.left img, .right img{
+  border-style: solid;
+  border-color: gold;
+}
+
+.left h1, .right h1{
+  color: #ffa366;
+  font-family: Chiller , Andalus;
+}
+
+.left p, .right p{
+  color: #fff;
+}
